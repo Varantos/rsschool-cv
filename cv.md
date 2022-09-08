@@ -30,3 +30,7 @@ __Work expirience__
 * 2015-2022 Additional Liability Company “Leader”, 
   software engineer. Retail trade software and cash registers system supporting. Automated warehouse accounting system support. Creating utilities and reports to enhance financial accounting.
 ***
+___Languages___  
+Russian, Belarusian, English: A-2.
+
+
